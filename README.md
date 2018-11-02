@@ -5,3 +5,5 @@
 		https://github.com/marshalljj/book
 		
 		https://github.com/wususu/effective-resourses
+		
+		https://github.com/serivires/how-tomcat-works
