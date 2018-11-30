@@ -12,3 +12,5 @@
 		
 		https://sophia.javeriana.edu.co/~cbustaca/docencia/POO-2016-01/documentos/Thinking_in_Java_4th_edition.pdf
 		 -> thinking in java 
+		 
+		 https://labs.xjtudlc.com/labs/wldmt/reading%20list/books/Algorithms%20and%20optimization/Introduction%20to%20Algorithms.pdf
