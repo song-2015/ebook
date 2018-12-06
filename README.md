@@ -14,3 +14,5 @@
 		 -> thinking in java 
 		 
 		 https://labs.xjtudlc.com/labs/wldmt/reading%20list/books/Algorithms%20and%20optimization/Introduction%20to%20Algorithms.pdf
+		 
+		 http://itmyhome.com/effective-java/effective-java.pdf
