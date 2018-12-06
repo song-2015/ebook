@@ -15,4 +15,6 @@
 		 
 		 https://labs.xjtudlc.com/labs/wldmt/reading%20list/books/Algorithms%20and%20optimization/Introduction%20to%20Algorithms.pdf
 		 
-		 http://itmyhome.com/effective-java/effective-java.pdf
+		 http://itmyhome.com/effective-java/effective-java.pdf 2rd
+		 
+		 https://github.com/harvies/books/tree/master/Java/%5BJAVA%5D%5BEffective%20Java%203rd%20Edition%5D 3rd
