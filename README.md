@@ -18,3 +18,5 @@
 		 http://itmyhome.com/effective-java/effective-java.pdf 2rd
 		 
 		 https://github.com/harvies/books/tree/master/Java/%5BJAVA%5D%5BEffective%20Java%203rd%20Edition%5D 3rd
+		 
+		 https://github.com/z32556601/book/blob/master/perfect/%E3%80%8A%E5%A4%A7%E8%AF%9D%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E3%80%8B%20%E7%A8%8B%E6%9D%B0.pdf
